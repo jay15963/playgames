@@ -1,0 +1,1 @@
+var e={speed:6,accel:12,arena:12,matchSeconds:60};export{e as t};

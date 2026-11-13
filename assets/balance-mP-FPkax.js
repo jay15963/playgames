@@ -1,0 +1,1 @@
+var e=2.4,t=.6,n=.75,r=1.6,i=1.6,a=.45,o={x:0,z:-9,r:2.2},s={1:6,2:6,3:6,4:6,5:6},c={accel:24,maxSpeed:8,drag:e,playerRadius:t,playerMass:1,boxRadius:n,boxMass:r,boxDrag:i,restitution:a,arena:12,boxes:5,goal:o,winGoals:s,matchSeconds:120};export{e as a,a as c,n as i,s as l,i as n,o,r,t as s,c as t};

@@ -1,0 +1,1 @@
+var e=1.6,t=.9,n=2.2,r=1.5,i={speed:5,runFactor:e,accel:12,arena:12,coins:6,pickupRadius:t,tagRadius:n,tagCooldown:r,winScore:30,matchSeconds:90};export{n as a,r as i,t as n,e as r,i as t};
